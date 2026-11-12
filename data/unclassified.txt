@@ -1,0 +1,9 @@
+pdfs/jiko/aoyama-h/filelink-pdffile-15522.pdf	2016	None	problem	H28 問題(641KB)	 R2小論文(2MB) | | H31小論文(428KB) | | H30小論文(2MB) | | H29小論文(1MB) | |  H28 問題(641KB)
+(問題なし) jiko-hachiojihigashi-h 2024 国語 {'key': 4}
+(問題なし) jiko-nishi-h 2021 国語 {'sheet': 1}
+(問題なし) jiko-nishi-h 2022 国語 {'sheet': 1}
+(問題なし) jiko-nishi-h 2023 国語 {'sheet': 1}
+(問題なし) jiko-nishi-h 2024 国語 {'sheet': 1}
+(問題なし) jiko-nishi-h 2025 国語 {'key': 1}
+(問題なし) jiko-sumidagawa-h 2022 国語 {'sheet': 1, 'key': 1}
+(問題なし) jiko-tachikawa-h 2026 国語 {'key': 1}
