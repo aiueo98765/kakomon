@@ -1,7 +1,0 @@
-# 入試問題PDFと取得記録は自分専用。配布・公開しない
-pdfs/
-data/crawl.json
-data/crawl-log.txt
-pdfs-ext/
-data/crawl-ext.json
-data/crawl-private.json
